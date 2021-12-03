@@ -1,0 +1,30 @@
+ body{
+     background-color: #F0DFC2;
+ }
+ .navbar{
+     background: #737272;
+ }
+
+.navbar ul{
+    margin-left: 800px;
+}
+.navbar ul li{
+    padding-left: 40px;
+}
+.navbar ul li a:hover{
+    color: yellow;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container h3, h5{
+    text-align: center;
+    font-weight: bold;
+}
+.container img{
+    margin-left: 300px;
+    margin-bottom: 200px;
+}
+
+  
