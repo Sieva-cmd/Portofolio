@@ -17,3 +17,33 @@ body{
 .navbar ul li a:hover{
    color: yellow;
 }
+.container h3{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+    .container h3{
+        text-align: center;
+    }
+}
+@media screen 
+and (min-width:1024px)
+and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1){
+    .container h3{
+        text-align: center;
+    }
+}
