@@ -3,7 +3,7 @@
 # portofolio
 
 ## By Sieva Lucia
-![Website image](https://images/portofolio.png)
+![Website image](https://github.com/Sieva-cmd/Portofolio/blob/master/images/portofolio.png)
 
 This is a description of my resume.
 
