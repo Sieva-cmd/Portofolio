@@ -1,0 +1,42 @@
+body{
+    background-color: #F0DFC2;
+}
+.navbar{
+    background: #737272;
+}
+
+.navbar ul{
+   margin-left: 800px;
+}
+.navbar ul li{
+   padding-left: 40px;
+}
+.navbar ul li a:hover{
+   color: yellow;
+}
+footer p {
+   margin-left: 300px;
+   margin-top: -25px;
+   padding-left: 20px;
+}
+footer p a{
+   color: black;
+}
+footer p i{
+   padding-left: 20px;
+}
+
+
+@media screen 
+and (min-width:1024px)
+and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1){
+    .container{
+
+        margin-top: 100px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+   
