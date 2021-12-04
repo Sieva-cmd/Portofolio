@@ -18,7 +18,7 @@ View the website in either a computer, phone ,or tablet
  Have an access to internet
 
 ## Installation
-Click on the link below to view the website  
+Click on the link below to view the website https://github.com/Sieva-cmd/Portofolio.git 
 
 ## Technology used 
 -HTML - used to build the structure of the website
