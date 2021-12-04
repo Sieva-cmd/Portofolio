@@ -33,6 +33,24 @@ body{
 
 
 
+
+
+
+
+
+footer p {
+    margin-left: 300px;
+    margin-top: -25px;
+    padding-left: 20px;
+}
+footer p a{
+    color: black;
+}
+footer p i{
+    padding-left: 20px;
+}
+
+
 @media only screen and (max-width: 480px) {
     .container h3{
         text-align: center;
