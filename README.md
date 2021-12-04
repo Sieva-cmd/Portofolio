@@ -2,14 +2,14 @@
 
 # portofolio
 
-## By Sieva Lucia
+#### By Sieva Lucia
 ![Website image](https://github.com/Sieva-cmd/Portofolio/blob/master/images/portofolio.png)
 
 This is a description of my resume.
 
 
 ## Description
-This is a website of my portofoilio containing my background information,my skills and experince and my hobbies. 
+This is a website of my portofoilio containing my background information,my skills, experince  my hobbies,interests and sample projects that i have done.
 
 ## set up instructions
 ## Requirements
