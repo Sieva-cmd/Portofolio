@@ -1,0 +1,55 @@
+body{
+    background-color: #F0DFC2;
+}
+.navbar{
+    background: #737272;
+}
+
+.navbar ul{
+   margin-left: 800px;
+}
+.navbar ul li{
+   padding-left: 40px;
+}
+.navbar ul li a:hover{
+   color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p {
+    margin-left: 300px;
+    margin-top: -25px;
+    padding-left: 20px;
+}
+footer p a{
+    color: black;
+}
+footer p i{
+    padding-left: 20px;
+}
